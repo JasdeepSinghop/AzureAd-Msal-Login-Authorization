@@ -155,3 +155,14 @@ In browser or Postman:
 ---
 
 👉 Do you want me to also **store the Azure AD user in your PostgreSQL (via Prisma)** after login, or just authenticate & return tokens for now?
+
+
+
+
+# So How the Jwt Work with Azure ad and when the jwt role come in picture
+
+Perfect 🚀 I’ll be here to help you step by step when you’re ready.
+
+When you want to start coding, just tell me what part you want to tackle first (login flow, callback handling, token validation middleware, or role-based authorization).
+
+Shall I keep a **ready-to-go plan** for you so we can code smoothly when you come back?
